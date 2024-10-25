@@ -1,1 +1,19 @@
 # CS360
+
+Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+The app that was built is an app to help track weight loss daily. This does require commitment from the user to be able to put in their weight each and every single day but overall the goal is to make them knowledgeable of their weight day-to-day and allow them to plan what are the next steps they would like to take.  
+
+What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+I used 3 total screens to try to keep an overall simple interface for the user. I didn't want there to be too much going on so every single design for the screens was kept to a minimum with obvious interaction buttons on screen and i tried to use a font and style that made it easy on the eyes to see the text being displayed on the screen. I also used a lightly colored background to help with the visiblity on the screen as well. 
+
+How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future? 
+Honestly, this is where i could have done better. I feel that not giving myself enough time for coding really messed me up in the end but this also does mean that i did learn alot from this. The obvious thing is that i learned that i need to budget my time better. I should have gone through my week and carved out time that would work for me to code this app. Another thing i learned is to really plan out what i am going to do. Write down a rough outline of what i plan to do coding wise. Have an idea of what functions i want to use, the variables, how to code will flow together.
+
+How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
+I did alot of testing my code as i was writing the code. Everytime i wrote a function i would then test to ensure that it was working properly and if it didn't work then i would rework the function to try to ensure that it would work properly. Sometimes i had to scrap the function or i had to completely rewrite them but after a lot of research and google searching i am happy with the progress i made with the application.
+
+Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
+The biggest challenge that i really faced was when i was trying to design the application and trying to make sure that i the code right so that everything was aligned the way that i wanted it to and that everything would be able to work together. I feel that i struggled alot with that as i didn't understand at all how the layouts worked together and how to get everything to work together on the screen. Overall i was able to get it but it was so much trial and error and testing and retesting over and over again until i was able to finally get it.
+
+In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+I am very proud of the login screen! I know it isn't the greatest think in the world but it was the one part of the application that i felt like i got done by myself and didn't require much of needing to do research or figure out how to do it. It isn't anything super special in that i have a seperate class that the function for the login calls from and it uses that to create and store users and use that for the login process. I felt that i did have to get a good handle on how to execute code in the main portion of the application as well as how to move between screens when the login information is accepted. Overall i was really really happy with it
